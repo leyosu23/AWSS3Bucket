@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "COMP306S3": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AWS_REGION": "us-east-2",
+        "AWS_PROFILE": "yoonseop"
+      }
+    }
+  }
+}
